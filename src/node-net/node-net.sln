@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "node-net", "node-net\node-net.csproj", "{6AFB3E32-CD15-41D9-8274-FF6A3E1984EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{9E865372-BC6B-4454-83A6-05CB7E701C5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAL", "BAL\BAL.csproj", "{330FB940-A692-48B0-A102-C12EFCB4869C}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsWebAppChat", "NodejsWebAppChat\NodejsWebAppChat.njsproj", "{F38DF007-755E-45C8-8420-105230E27876}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AFB3E32-CD15-41D9-8274-FF6A3E1984EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AFB3E32-CD15-41D9-8274-FF6A3E1984EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AFB3E32-CD15-41D9-8274-FF6A3E1984EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AFB3E32-CD15-41D9-8274-FF6A3E1984EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E865372-BC6B-4454-83A6-05CB7E701C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E865372-BC6B-4454-83A6-05CB7E701C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E865372-BC6B-4454-83A6-05CB7E701C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E865372-BC6B-4454-83A6-05CB7E701C5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{330FB940-A692-48B0-A102-C12EFCB4869C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{330FB940-A692-48B0-A102-C12EFCB4869C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{330FB940-A692-48B0-A102-C12EFCB4869C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{330FB940-A692-48B0-A102-C12EFCB4869C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F38DF007-755E-45C8-8420-105230E27876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38DF007-755E-45C8-8420-105230E27876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38DF007-755E-45C8-8420-105230E27876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38DF007-755E-45C8-8420-105230E27876}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9F8E4BC-895F-42C4-9B9C-B8B03497AFD6}
+	EndGlobalSection
+EndGlobal

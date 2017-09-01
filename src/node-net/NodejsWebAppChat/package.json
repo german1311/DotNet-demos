@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-web-app-chat",
+  "version": "0.0.0",
+  "description": "NodejsWebAppChat",
+  "main": "server.js",
+  "author": {
+    "name": "Avantica"
+  },
+  "dependencies": {
+    "socket.io": "^1.7.4"
+  }
+}
